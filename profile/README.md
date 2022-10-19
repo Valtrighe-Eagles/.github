@@ -8,18 +8,18 @@ We are the Valtrighe Eagles.
 
 We are 3 guys with big business aspirations but first let us introduce ourselves:
 
-|Official Members                |Role                          |Function                         |
-|----------------|-------------------------------|-----------------------------|
-|[Filippo Graziano](https://github.com/Grax03)|`CEO`|It's not known what he does all the time but he is always busy.|
-|[Manuel Riva](https://github.com/BlackWolf4k)|`CTO`|Does the 99% of the work. Btw he uses arch.|
-|[Loris Rota](https://github.com/Loriss07)|`PR - Public Relations`|If you have any issues, tell him... He'll do nothing.|
+|Official Members                |Role                          |Function                         |Social Network                         |
+|----------------|-------------------------------|-----------------------------|-----------------------------|
+|[Filippo Graziano](https://github.com/Grax03)|`CEO`|It's not known what he does all the time but he is always busy.|[LinkedIn](https://www.linkedin.com/in/filippo-giovanni-graziano-099185251)|
+|[Manuel Riva](https://github.com/BlackWolf4k)|`CTO`|Does the 99% of the work. Btw he uses arch.|[LinkedIn](https://www.linkedin.com/in/manuel-carlo-riva-043234251)|
+|[Loris Rota](https://github.com/Loriss07)|`PR - Public Relations`|If you have any issues, tell him... He'll do nothing.|[LinkedIn](https://www.linkedin.com/in/loris-rota-40063a252)|
 
 <hr>
 
-|Honorary Members                |Role                          |Function                         |
-|----------------|-------------------------------|-----------------------------|
-|[olprofesur](https://github.com/olprofesur)|`Mentor`|Our mentor and life goal. Btw he has a UML certificate and 6k followers on LinkedIn.|
-|[Andrea Ranica](https://github.com/andrearanica)|`Worker`|We don't know who he is, but he works and we keep him.|
+|Honorary Members                |Role                          |Function                         |Social Network                         |
+|----------------|-------------------------------|-----------------------------|-----------------------------|
+|[olprofesur](https://github.com/olprofesur)|`Mentor`|Our mentor and life goal. Btw he has a UML certificate and 6k followers on LinkedIn.|[LinkedIn](https://it.linkedin.com/in/diegobernini)|
+|[Andrea Ranica](https://github.com/andrearanica)|`Worker`|We don't know who he is, but he works and we keep him.||
 
 <hr>
 
