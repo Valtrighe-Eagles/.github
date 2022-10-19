@@ -39,4 +39,4 @@ Email: info@valtrigheeagles.com
 <br>
 Website: www.valtrigheeagles.com
 <br>
-Headquarters: Valtrighe (BG), Italy
+Headquarter: Valtrighe (BG), Italy
