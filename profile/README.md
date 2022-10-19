@@ -17,7 +17,7 @@ We are 3 guys with big business aspirations but first let us introduce ourselves
 <hr>
 
 |Honorary Members                |Role                          |Function                         |Social Network                         |
-|----------------|-------------------------------|-----------------------------|-----------------------------|
+|----------------|-------------------------------|----------------------------|------------------------------|
 |[olprofesur](https://github.com/olprofesur)|`Mentor`|Our mentor and life goal. Btw he has a UML certificate and 6k followers on LinkedIn.|[LinkedIn](https://it.linkedin.com/in/diegobernini)|
 |[Andrea Ranica](https://github.com/andrearanica)|`Worker`|We don't know who he is, but he works and we keep him.||
 
