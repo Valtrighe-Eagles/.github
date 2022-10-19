@@ -1,9 +1,10 @@
 # Welcome to Valtrighe Eagles!
 
 Hello everyone!
+<br>
 We are the Valtrighe Eagles.
 
-# Who we are?
+# Who are we?
 
 We are 3 guys with big business aspirations but first let us introduce ourselves:
 
@@ -11,7 +12,7 @@ We are 3 guys with big business aspirations but first let us introduce ourselves
 |----------------|-------------------------------|-----------------------------|
 |[Filippo Graziano](https://github.com/Grax03)|`CEO`|It's not known what he does all the time but he is always busy.|
 |[Manuel Riva](https://github.com/BlackWolf4k)|`CTO`|Does the 99% of the work. Btw he uses arch.|
-|[Loris Rota](https://github.com/Loriss07)|`PR - Public Relations`|If you have any issue, tell me... I'll do nothing.|
+|[Loris Rota](https://github.com/Loriss07)|`PR - Public Relations`|If you have any issues, tell him... He'll do nothing.|
 
 <hr>
 
