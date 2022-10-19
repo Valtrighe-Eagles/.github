@@ -23,7 +23,7 @@ We are 3 guys with big business aspirations but first let us introduce ourselves
 
 <hr>
 
-|Ex Members                |Role                          |Function                         |
+|Ex Members                |Occasion                          |Function                         |
 |----------------|-------------------------------|-----------------------------|
 |[Chengzhou Hu](https://github.com/hcz01)|`Hackathon`|He only had to know Javascript, but he didn't.|
 |[Simone Cattaneo](https://github.com/SimoneCattaneo17)|`Hackathon`|He did moral support.|
