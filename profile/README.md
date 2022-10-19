@@ -27,8 +27,8 @@ We are 3 guys with big business aspirations but first let us introduce ourselves
 |----------------|-------------------------------|-----------------------------|
 |[Chengzhou Hu](https://github.com/hcz01)|`Hackathon`|He only had to know Javascript, but he didn't.|
 |[Simone Cattaneo](https://github.com/SimoneCattaneo17)|`Hackathon`|He did moral support.|
-|[Preda Nicola](https://github.com/nicolapreda)|`IT Olympics`|He worked with us for team IT olympiad.|
-|[Matteo Piffari](https://github.com/matteopiffari)|`IT Olympics`|He worked with us for team IT olympiad.|
+|[Preda Nicola](https://github.com/nicolapreda)|`IT Olympics`|He worked with us for team IT olympics.|
+|[Matteo Piffari](https://github.com/matteopiffari)|`IT Olympics`|He worked with us for team IT olympics.|
 
 # What do we do?
 Good question. We don't know either, but if we start doing something we will let you know.
