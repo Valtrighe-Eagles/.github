@@ -3,6 +3,8 @@
 Hello everyone!
 <br>
 We are the Valtrighe Eagles.
+<br>
+<img src=https://komarev.com/ghpvc/?username = Valtrighe-Eagles/>
 
 # Who are we?
 
