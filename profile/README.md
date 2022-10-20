@@ -36,7 +36,7 @@ We are 3 guys with big business aspirations but first let us introduce ourselves
 # What do we do?
 Good question. We don't know either, but if we start doing something we will let you know.
 <br>
-We define ourselves as *businessmen*.
+We define ourselves as businessmen.
 
 # Contacts
 Email: info@valtrigheeagles.com
