@@ -13,7 +13,7 @@ We are 3 guys with big business aspirations but first let us introduce ourselves
 
 |Official Members                |Role                          |Function                         |Social Network                         |
 |----------------|-------------------------------|-----------------------------|-----------------------------|
-|[Filippo Graziano](https://github.com/Grax03)|`CEO`|It's not known what he does all the time but he is always busy.|[LinkedIn](https://www.linkedin.com/in/filippo-giovanni-graziano-099185251)|
+|[Filippo Graziano](https://github.com/Grax03)|`CEO`|It's not known what he does all the time but he is always busy.|[LinkedIn](https://www.linkedin.com/in/filippogiovannigraziano)|
 |[Manuel Riva](https://github.com/BlackWolf4k)|`CTO`|Does the 99% of the work. Btw he uses arch.|[LinkedIn](https://www.linkedin.com/in/manuel-carlo-riva-043234251)|
 |[Loris Rota](https://github.com/Loriss07)|`PR - Public Relations`|If you have any issues, tell him... He'll do nothing.|[LinkedIn](https://www.linkedin.com/in/loris-rota-40063a252)|
 
