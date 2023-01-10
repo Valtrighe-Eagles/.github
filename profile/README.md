@@ -15,14 +15,14 @@ We are 3 guys with big business aspirations but first let us introduce ourselves
 |----------------|-------------------------------|-----------------------------|-----------------------------|
 |[Filippo Graziano](https://github.com/Grax03)|`CEO`|It's not known what he does all the time but he is always busy.|[LinkedIn](https://www.linkedin.com/in/filippogiovannigraziano)|
 |[Manuel Riva](https://github.com/BlackWolf4k)|`CTO`|Does the 99% of the work. Btw he uses arch.|[LinkedIn](https://www.linkedin.com/in/manuel-carlo-riva-043234251)|
-|[Loris Rota](https://github.com/Loriss07)|`PR - Public Relations`|If you have any issues, tell him... He'll do nothing.|[LinkedIn](https://www.linkedin.com/in/loris-rota-40063a252)|
+|[Loris Rota](https://github.com/Loriss07)|`PR`|If you have any issues, tell him... He'll do nothing.|[LinkedIn](https://www.linkedin.com/in/loris-rota-40063a252)|
 
 <hr>
 
 |Honorary Members                |Role                          |Function                         |Social Network                         |
 |----------------|-------------------------------|-----------------------------|-----------------------------|
 |[olprofesur](https://github.com/olprofesur)|`Mentor`|Our mentor and life goal. Btw he has a UML certificate and 6k followers on LinkedIn.|[LinkedIn](https://it.linkedin.com/in/diegobernini)|
-|[Andrea Ranica](https://github.com/andrearanica)|`Worker`|We don't know who he is, but he works and we keep him.|[Telegram](https://t.me/andrearanica)|
+|[Andrea Ranica](https://github.com/andrearanica)|`Worker`|We don't know who he is, but he works and we keep him.|[LinkedIn](https://it.linkedin.com/in/andrearanica)|
 
 <hr>
 
